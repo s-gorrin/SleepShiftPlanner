@@ -2,7 +2,7 @@
 ### A tool to plan when to be asleep for a week of sleep schedule fixing.  
 
 ## Explanation
-Delated Sleep Phase Syndrome causes a sleep schedule that is several hours
+Delayed Sleep Phase Syndrome causes a sleep schedule that is several hours
 later than average, but still requires a "normal" amount of sleep.
 The easiest way to get on a more diurnal schedule is to go to bed later each
 "night" until you go around the clock and get back to the desired schedule.
